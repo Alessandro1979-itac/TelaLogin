@@ -1,6 +1,6 @@
 # Login
 
-Página de autenticação com usuário e senha
+Página de autenticação com usuário ('admin@admin.com.br') e senha ('admin123')
 
 ### Autor
 ---
