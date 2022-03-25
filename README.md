@@ -18,7 +18,7 @@ Feito com ❤️ por Alessandro Muniz 👋🏽 Entre em contato!
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes tecnologias foram usadas na construção do projeto:
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
